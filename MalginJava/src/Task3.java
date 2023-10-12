@@ -22,7 +22,6 @@ public class Task3 {
             }
         }
         scanner.close();
-
     }
 }
 
